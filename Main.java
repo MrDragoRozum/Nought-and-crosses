@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Main {
 
 	public static void main(String[] args) {
-		System.out.println("Вы играете игру \"Крестики-нолики\"");
+		System.out.println(""\"РљСЂРµСЃС‚РёРєРё-РЅРѕР»РёРєРё"\"");
 		Act.field();
 	}
 
